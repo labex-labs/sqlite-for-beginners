@@ -25,26 +25,26 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                                  | 难度   | 练习                                                                                                                      |
 |--------|---------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 在 Linux 中设置 SQLite             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>开始实验</a>             |
-|     02 | 🎯 在 Linux 上安装和验证 SQLite       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>开始挑战</a>     |
-|     03 | 📖 创建和管理 SQLite 数据库           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>开始实验</a> |
-|     04 | 🎯 将用户数据插入 SQLite              | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/insert-user-data-into-sqlite-552580'>开始挑战</a>                  |
-|     05 | 📖 在 SQLite 中构建表                 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-building-tables-in-sqlite-552336'>开始实验</a>              |
-|     06 | 🎯 构建用于联系人的 SQLite 数据库     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>开始挑战</a>     |
-|     07 | 📖 使用 SQLite 处理数据               | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-working-with-data-in-sqlite-552340'>开始实验</a>            |
-|     08 | 🎯 在 SQLite 中查询特定数据           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-query-specific-data-in-sqlite-552586'>开始挑战</a>          |
-|     09 | 📖 查询和过滤数据                     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-querying-and-filtering-data-552338'>开始实验</a>            |
-|     10 | 🎯 过滤 SQLite 数据以获取 IT 部门信息 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>开始挑战</a>   |
+|     01 | 📖 在 Linux 中设置 SQLite             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>开始实验</a>             |
+|     02 | 🎯 在 Linux 上安装和验证 SQLite       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>开始挑战</a>     |
+|     03 | 📖 创建和管理 SQLite 数据库           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>开始实验</a> |
+|     04 | 🎯 将用户数据插入 SQLite              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/insert-user-data-into-sqlite-552580'>开始挑战</a>                  |
+|     05 | 📖 在 SQLite 中构建表                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-building-tables-in-sqlite-552336'>开始实验</a>              |
+|     06 | 🎯 构建用于联系人的 SQLite 数据库     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>开始挑战</a>     |
+|     07 | 📖 使用 SQLite 处理数据               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-working-with-data-in-sqlite-552340'>开始实验</a>            |
+|     08 | 🎯 在 SQLite 中查询特定数据           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-query-specific-data-in-sqlite-552586'>开始挑战</a>          |
+|     09 | 📖 查询和过滤数据                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-querying-and-filtering-data-552338'>开始实验</a>            |
+|     10 | 🎯 过滤 SQLite 数据以获取 IT 部门信息 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>开始挑战</a>   |
 
 ## 更多
 
-- 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Database Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [Database 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Database 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Database 免费教程](https://github.com/labex-labs/sqlite-free-tutorials)
 

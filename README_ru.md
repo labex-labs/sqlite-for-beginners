@@ -31,20 +31,20 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                      | Сложность   | Практика                                                                                                                            |
 |----------|-----------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Настройка SQLite в Linux                   | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Начать Лабораторию</a>             |
-|       02 | 🎯 Установка и проверка SQLite в Linux        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Начать Испытание</a>       |
-|       03 | 📖 Создание и управление базами данных SQLite | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Начать Лабораторию</a> |
-|       04 | 🎯 Вставка данных пользователя в SQLite       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/insert-user-data-into-sqlite-552580'>Начать Испытание</a>                    |
-|       05 | 📖 Создание таблиц в SQLite                   | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-building-tables-in-sqlite-552336'>Начать Лабораторию</a>              |
-|       06 | 🎯 Создание базы данных SQLite для контактов  | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Начать Испытание</a>       |
-|       07 | 📖 Работа с данными в SQLite                  | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-working-with-data-in-sqlite-552340'>Начать Лабораторию</a>            |
-|       08 | 🎯 Запрос определенных данных в SQLite        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Начать Испытание</a>            |
-|       09 | 📖 Запрос и фильтрация данных                 | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-querying-and-filtering-data-552338'>Начать Лабораторию</a>            |
-|       10 | 🎯 Фильтрация данных SQLite для IT-отдела     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Начать Испытание</a>     |
+|       01 | 📖 Настройка SQLite в Linux                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Начать Лабораторию</a>             |
+|       02 | 🎯 Установка и проверка SQLite в Linux        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Начать Испытание</a>       |
+|       03 | 📖 Создание и управление базами данных SQLite | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Начать Лабораторию</a> |
+|       04 | 🎯 Вставка данных пользователя в SQLite       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/insert-user-data-into-sqlite-552580'>Начать Испытание</a>                    |
+|       05 | 📖 Создание таблиц в SQLite                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-building-tables-in-sqlite-552336'>Начать Лабораторию</a>              |
+|       06 | 🎯 Создание базы данных SQLite для контактов  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Начать Испытание</a>       |
+|       07 | 📖 Работа с данными в SQLite                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-working-with-data-in-sqlite-552340'>Начать Лабораторию</a>            |
+|       08 | 🎯 Запрос определенных данных в SQLite        | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Начать Испытание</a>            |
+|       09 | 📖 Запрос и фильтрация данных                 | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-querying-and-filtering-data-552338'>Начать Лабораторию</a>            |
+|       10 | 🎯 Фильтрация данных SQLite для IT-отдела     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Начать Испытание</a>     |
 
 ## Больше
 
-- 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Database Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [Database Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Database Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Database Бесплатные туториалы](https://github.com/labex-labs/sqlite-free-tutorials)
 

@@ -13,6 +13,21 @@ In this course, you'll learn the fundamentals of SQLite, from setting it up on L
 ![SQLite](https://img.shields.io/badge/SQLite-whitesmoke?style=for-the-badge&logo=sqlite)
 
 
+## Exercises
+
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                    |
+|---------|----------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Setting Up SQLite in Linux             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Start Lab</a>                 |
+|      02 | 🎯 🟢 Install and Verify SQLite on Linux     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Start Challenge</a>   |
+|      03 | 📖 🟢 Creating and Managing SQLite Databases | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Start Lab</a>     |
+|      04 | 🎯 🟢 Insert User Data into SQLite           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/insert-user-data-into-sqlite-552580'>Start Challenge</a>                |
+|      05 | 📖 🟢 Building Tables in SQLite              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-building-tables-in-sqlite-552336'>Start Lab</a>                  |
+|      06 | 🎯 🟢 Build SQLite Database For Contacts     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Start Challenge</a>   |
+|      07 | 📖 🟢 Working with Data in SQLite            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-working-with-data-in-sqlite-552340'>Start Lab</a>                |
+|      08 | 🎯 🟢 Query Specific Data in SQLite          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Start Challenge</a>        |
+|      09 | 📖 🟢 Querying and Filtering Data            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-querying-and-filtering-data-552338'>Start Lab</a>                |
+|      10 | 🎯 🟢 Filter SQLite Data for IT Department   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Start Challenge</a> |
+
 ## Environment
 
 LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
@@ -23,28 +38,13 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercises
-
-|   Index | Name                                      | Difficulty   | Practice                                                                                                                    |
-|---------|-------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Setting Up SQLite in Linux             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Start Lab</a>                 |
-|      02 | 🎯 Install and Verify SQLite on Linux     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Start Challenge</a>   |
-|      03 | 📖 Creating and Managing SQLite Databases | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Start Lab</a>     |
-|      04 | 🎯 Insert User Data into SQLite           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/insert-user-data-into-sqlite-552580'>Start Challenge</a>                |
-|      05 | 📖 Building Tables in SQLite              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-building-tables-in-sqlite-552336'>Start Lab</a>                  |
-|      06 | 🎯 Build SQLite Database For Contacts     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Start Challenge</a>   |
-|      07 | 📖 Working with Data in SQLite            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-working-with-data-in-sqlite-552340'>Start Lab</a>                |
-|      08 | 🎯 Query Specific Data in SQLite          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Start Challenge</a>        |
-|      09 | 📖 Querying and Filtering Data            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-querying-and-filtering-data-552338'>Start Lab</a>                |
-|      10 | 🎯 Filter SQLite Data for IT Department   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Start Challenge</a> |
 
 ## More
 
 - 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Database Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [Database Free Tutorials](https://github.com/labex-labs/database-free-tutorials)
 

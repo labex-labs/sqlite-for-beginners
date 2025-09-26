@@ -15,18 +15,18 @@ En este curso, aprenderás los conceptos básicos de SQLite, desde la configurac
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                             |
-|----------|-------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Configuración de SQLite en Linux                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Iniciar Laboratorio</a>             |
-|       02 | 🎯 🟢 Instalar y Verificar SQLite en Linux                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Iniciar Desafío</a>         |
-|       03 | 📖 🟢 Creación y gestión de bases de datos SQLite           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Iniciar Laboratorio</a> |
-|       04 | 🎯 🟢 Insertar Datos de Usuario en SQLite                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/insert-user-data-into-sqlite-552580'>Iniciar Desafío</a>                      |
-|       05 | 📖 🟢 Creación de Tablas en SQLite                          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-building-tables-in-sqlite-552336'>Iniciar Laboratorio</a>              |
-|       06 | 🎯 🟢 Construir una Base de Datos SQLite para Contactos     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Iniciar Desafío</a>         |
-|       07 | 📖 🟢 Trabajando con datos en SQLite                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-working-with-data-in-sqlite-552340'>Iniciar Laboratorio</a>            |
-|       08 | 🎯 🟢 Consultar Datos Específicos en SQLite                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Iniciar Desafío</a>              |
-|       09 | 📖 🟢 Consultar y Filtrar Datos                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-querying-and-filtering-data-552338'>Iniciar Laboratorio</a>            |
-|       10 | 🎯 🟢 Filtrar Datos SQLite para el Departamento de IT (T... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Iniciar Desafío</a>       |
+|   Índice | Nombre                                                    | Dificultad   | Práctica                                                                                                                             |
+|----------|-----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Configuración de SQLite en Linux                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Iniciar Laboratorio</a>             |
+|       02 | 🎯 🆓 Instalar y Verificar SQLite en Linux                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Iniciar Desafío</a>         |
+|       03 | 📖 🆓 Creación y Gestión de Bases de Datos SQLite         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Iniciar Laboratorio</a> |
+|       04 | 🎯 🆓 Insertar Datos de Usuario en SQLite                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/insert-user-data-into-sqlite-552580'>Iniciar Desafío</a>                      |
+|       05 | 📖 🆓 Creación de Tablas en SQLite                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-building-tables-in-sqlite-552336'>Iniciar Laboratorio</a>              |
+|       06 | 🎯  Construir una Base de Datos SQLite para Contactos     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Iniciar Desafío</a>         |
+|       07 | 📖  Trabajando con datos en SQLite                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-working-with-data-in-sqlite-552340'>Iniciar Laboratorio</a>            |
+|       08 | 🎯  Consultar Datos Específicos en SQLite                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Iniciar Desafío</a>              |
+|       09 | 📖  Consultar y Filtrar Datos                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-querying-and-filtering-data-552338'>Iniciar Laboratorio</a>            |
+|       10 | 🎯  Filtrar Datos SQLite para el Departamento de IT (T... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Iniciar Desafío</a>       |
 
 ## Entorno
 

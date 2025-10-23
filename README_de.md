@@ -15,22 +15,22 @@ In diesem Kurs lernen Sie die Grundlagen von SQLite, von der Einrichtung auf Lin
 
 ## Übungen
 
-|   Index | Name                                                   | Schwierigkeit   | Übung                                                                                                                            |
-|---------|--------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🆓 SQLite unter Linux einrichten                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>Labor Starten</a>               |
-|      02 | 🎯 🆓 SQLite unter Linux installieren und verifizieren | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>Challenge Starten</a>   |
-|      03 | 📖 🆓 Erstellen und Verwalten von SQLite-Datenbanken   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>Labor Starten</a>   |
-|      04 | 🎯 🆓 Benutzerdaten in SQLite einfügen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/insert-user-data-into-sqlite-552580'>Challenge Starten</a>                |
-|      05 | 📖 🆓 Tabellen in SQLite erstellen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-building-tables-in-sqlite-552336'>Labor Starten</a>                |
-|      06 | 🎯  SQLite-Datenbank für Kontakte erstellen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>Challenge Starten</a>   |
-|      07 | 📖  Arbeiten mit Daten in SQLite                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-working-with-data-in-sqlite-552340'>Labor Starten</a>              |
-|      08 | 🎯  Abfragen spezifischer Daten in SQLite              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-query-specific-data-in-sqlite-552586'>Challenge Starten</a>        |
-|      09 | 📖  Daten abfragen und filtern                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-querying-and-filtering-data-552338'>Labor Starten</a>              |
-|      10 | 🎯  SQLite-Daten für die IT-Abteilung filtern          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>Challenge Starten</a> |
+|   Index | Name                                                   | Schwierigkeit   | Übung                                                                                                                                                   |
+|---------|--------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🧩 🆓 SQLite unter Linux einrichten                    | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-setting-up-sqlite-in-linux-552335?course=sqlite-for-beginners'>Labor Starten</a>               |
+|      02 | 🎯 🆓 SQLite unter Linux installieren und verifizieren | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-install-and-verify-sqlite-on-linux-552579?course=sqlite-for-beginners'>Challenge Starten</a>   |
+|      03 | 🧩 🆓 Erstellen und Verwalten von SQLite-Datenbanken   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-creating-and-managing-sqlite-databases-552337?course=sqlite-for-beginners'>Labor Starten</a>   |
+|      04 | 🎯 🆓 Benutzerdaten in SQLite einfügen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/insert-user-data-into-sqlite-552580?course=sqlite-for-beginners'>Challenge Starten</a>                |
+|      05 | 🧩 🆓 Tabellen in SQLite erstellen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-building-tables-in-sqlite-552336?course=sqlite-for-beginners'>Labor Starten</a>                |
+|      06 | 🎯  SQLite-Datenbank für Kontakte erstellen            | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-build-sqlite-database-for-contacts-552582?course=sqlite-for-beginners'>Challenge Starten</a>   |
+|      07 | 🧩  Arbeiten mit Daten in SQLite                       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-working-with-data-in-sqlite-552340?course=sqlite-for-beginners'>Labor Starten</a>              |
+|      08 | 🎯  Abfragen spezifischer Daten in SQLite              | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-query-specific-data-in-sqlite-552586?course=sqlite-for-beginners'>Challenge Starten</a>        |
+|      09 | 🧩  Daten abfragen und filtern                         | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-querying-and-filtering-data-552338?course=sqlite-for-beginners'>Labor Starten</a>              |
+|      10 | 🎯  SQLite-Daten für die IT-Abteilung filtern          | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/sqlite-filter-sqlite-data-for-it-department-552585?course=sqlite-for-beginners'>Challenge Starten</a> |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 

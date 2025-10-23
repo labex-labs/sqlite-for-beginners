@@ -15,22 +15,22 @@
 
 ## 演習
 
-|   インデックス | 名前                                                               | 難易度   | 練習                                                                                                                            |
-|----------------|--------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🆓 Linux での SQLite のセットアップ                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-setting-up-sqlite-in-linux-552335'>ラボを開始</a>                 |
-|             02 | 🎯 🆓 Linux への SQLite のインストールと検証                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579'>チャレンジを開始</a>   |
-|             03 | 📖 🆓 SQLite データベースの作成と管理                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-creating-and-managing-sqlite-databases-552337'>ラボを開始</a>     |
-|             04 | 🎯 🆓 SQLite へのユーザーデータ挿入 (Insert User Data into SQLite) | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/insert-user-data-into-sqlite-552580'>チャレンジを開始</a>                |
-|             05 | 📖 🆓 SQLite でのテーブル構築                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-building-tables-in-sqlite-552336'>ラボを開始</a>                  |
-|             06 | 🎯  連絡先のための SQLite データベースの構築                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-build-sqlite-database-for-contacts-552582'>チャレンジを開始</a>   |
-|             07 | 📖  SQLite でのデータ操作                                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-working-with-data-in-sqlite-552340'>ラボを開始</a>                |
-|             08 | 🎯  SQLite での特定データのクエリ (Query Specific Data in SQLite)  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-query-specific-data-in-sqlite-552586'>チャレンジを開始</a>        |
-|             09 | 📖  データのクエリとフィルタリング                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-querying-and-filtering-data-552338'>ラボを開始</a>                |
-|             10 | 🎯  IT 部門の SQLite データフィルタリング                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-filter-sqlite-data-for-it-department-552585'>チャレンジを開始</a> |
+|   インデックス | 名前                                                               | 難易度   | 練習                                                                                                                                                   |
+|----------------|--------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🧩 🆓 Linux での SQLite のセットアップ                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-setting-up-sqlite-in-linux-552335?course=sqlite-for-beginners'>ラボを開始</a>                 |
+|             02 | 🎯 🆓 Linux への SQLite のインストールと検証                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-install-and-verify-sqlite-on-linux-552579?course=sqlite-for-beginners'>チャレンジを開始</a>   |
+|             03 | 🧩 🆓 SQLite データベースの作成と管理                              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-creating-and-managing-sqlite-databases-552337?course=sqlite-for-beginners'>ラボを開始</a>     |
+|             04 | 🎯 🆓 SQLite へのユーザーデータ挿入 (Insert User Data into SQLite) | 初級     | <a target='_blank' href='https://labex.io/ja/labs/insert-user-data-into-sqlite-552580?course=sqlite-for-beginners'>チャレンジを開始</a>                |
+|             05 | 🧩 🆓 SQLite でのテーブル構築                                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-building-tables-in-sqlite-552336?course=sqlite-for-beginners'>ラボを開始</a>                  |
+|             06 | 🎯  連絡先のための SQLite データベースの構築                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-build-sqlite-database-for-contacts-552582?course=sqlite-for-beginners'>チャレンジを開始</a>   |
+|             07 | 🧩  SQLite でのデータ操作                                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-working-with-data-in-sqlite-552340?course=sqlite-for-beginners'>ラボを開始</a>                |
+|             08 | 🎯  SQLite での特定データのクエリ (Query Specific Data in SQLite)  | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-query-specific-data-in-sqlite-552586?course=sqlite-for-beginners'>チャレンジを開始</a>        |
+|             09 | 🧩  データのクエリとフィルタリング                                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-querying-and-filtering-data-552338?course=sqlite-for-beginners'>ラボを開始</a>                |
+|             10 | 🎯  IT 部門の SQLite データフィルタリング                          | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sqlite-filter-sqlite-data-for-it-department-552585?course=sqlite-for-beginners'>チャレンジを開始</a> |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
